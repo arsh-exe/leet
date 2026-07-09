@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsh-exe/leet/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsh-exe/leet/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
