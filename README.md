@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsh-exe/leet/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -28,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsh-exe/leet/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
