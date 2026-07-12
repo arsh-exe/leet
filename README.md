@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
