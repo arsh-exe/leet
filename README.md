@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0414-third-maximum-number](https://github.com/arsh-exe/leet/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -48,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arsh-exe/leet/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
