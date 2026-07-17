@@ -154,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/arsh-exe/leet/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/arsh-exe/leet/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/arsh-exe/leet/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
