@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/arsh-exe/leet/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -191,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arsh-exe/leet/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
