@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arsh-exe/leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arsh-exe/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/arsh-exe/leet/tree/master/2733-neither-minimum-nor-maximum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arsh-exe/leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arsh-exe/leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arsh-exe/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
