@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsh-exe/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0316-remove-duplicate-letters](https://github.com/arsh-exe/leet/tree/master/0316-remove-duplicate-letters) |
+| [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/arsh-exe/leet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arsh-exe/leet/tree/master/0680-valid-palindrome-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsh-exe/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0414-third-maximum-number](https://github.com/arsh-exe/leet/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsh-exe/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
