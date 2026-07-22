@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/arsh-exe/leet/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0822-card-flipping-game](https://github.com/arsh-exe/leet/tree/master/0822-card-flipping-game) |
 | [0845-longest-mountain-in-array](https://github.com/arsh-exe/leet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsh-exe/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arsh-exe/leet/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/arsh-exe/leet/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/arsh-exe/leet/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
