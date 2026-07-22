@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/arsh-exe/leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arsh-exe/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsh-exe/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0316-remove-duplicate-letters](https://github.com/arsh-exe/leet/tree/master/0316-remove-duplicate-letters) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arsh-exe/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/arsh-exe/leet/tree/master/0647-palindromic-substrings) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arsh-exe/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
