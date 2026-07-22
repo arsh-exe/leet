@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/arsh-exe/leet/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/arsh-exe/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsh-exe/leet/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/arsh-exe/leet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
