@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsh-exe/leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2733-neither-minimum-nor-maximum](https://github.com/arsh-exe/leet/tree/master/2733-neither-minimum-nor-maximum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
 | [0822-card-flipping-game](https://github.com/arsh-exe/leet/tree/master/0822-card-flipping-game) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/arsh-exe/leet/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/arsh-exe/leet/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsh-exe/leet/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/arsh-exe/leet/tree/master/2733-neither-minimum-nor-maximum) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/arsh-exe/leet/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsh-exe/leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arsh-exe/leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
