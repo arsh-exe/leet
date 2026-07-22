@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/arsh-exe/leet/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arsh-exe/leet/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/arsh-exe/leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
