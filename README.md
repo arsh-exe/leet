@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/arsh-exe/leet/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arsh-exe/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsh-exe/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-card-flipping-game](https://github.com/arsh-exe/leet/tree/master/0822-card-flipping-game) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arsh-exe/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/arsh-exe/leet/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arsh-exe/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsh-exe/leet/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
