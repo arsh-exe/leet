@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsh-exe/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arsh-exe/leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/arsh-exe/leet/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arsh-exe/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsh-exe/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsh-exe/leet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsh-exe/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsh-exe/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
 | ------- |
