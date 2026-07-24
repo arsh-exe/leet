@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arsh-exe/leet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsh-exe/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/arsh-exe/leet/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arsh-exe/leet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsh-exe/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/arsh-exe/leet/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/arsh-exe/leet/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arsh-exe/leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -316,8 +318,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arsh-exe/leet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsh-exe/leet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arsh-exe/leet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsh-exe/leet/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
