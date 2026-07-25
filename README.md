@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsh-exe/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arsh-exe/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/arsh-exe/leet/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/arsh-exe/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/arsh-exe/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsh-exe/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/arsh-exe/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
 | [0822-card-flipping-game](https://github.com/arsh-exe/leet/tree/master/0822-card-flipping-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arsh-exe/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arsh-exe/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/arsh-exe/leet/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
