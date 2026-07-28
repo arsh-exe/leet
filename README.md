@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arsh-exe/leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arsh-exe/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arsh-exe/leet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/arsh-exe/leet/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arsh-exe/leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arsh-exe/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arsh-exe/leet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/arsh-exe/leet/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -369,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/arsh-exe/leet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/arsh-exe/leet/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
