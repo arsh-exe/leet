@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/arsh-exe/leet/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arsh-exe/leet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arsh-exe/leet/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arsh-exe/leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arsh-exe/leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsh-exe/leet/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/arsh-exe/leet/tree/master/2733-neither-minimum-nor-maximum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arsh-exe/leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arsh-exe/leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arsh-exe/leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
 | [2351-first-letter-to-appear-twice](https://github.com/arsh-exe/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arsh-exe/leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
