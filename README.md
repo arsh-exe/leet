@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arsh-exe/leet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/arsh-exe/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/arsh-exe/leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arsh-exe/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0414-third-maximum-number](https://github.com/arsh-exe/leet/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/arsh-exe/leet/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/arsh-exe/leet/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/arsh-exe/leet/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/arsh-exe/leet/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/arsh-exe/leet/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/arsh-exe/leet/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/arsh-exe/leet/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/arsh-exe/leet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/arsh-exe/leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arsh-exe/leet/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/arsh-exe/leet/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arsh-exe/leet/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
