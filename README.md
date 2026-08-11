@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2733-neither-minimum-nor-maximum](https://github.com/arsh-exe/leet/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsh-exe/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arsh-exe/leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arsh-exe/leet/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/arsh-exe/leet/tree/master/2351-first-letter-to-appear-twice) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsh-exe/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arsh-exe/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arsh-exe/leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arsh-exe/leet/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsh-exe/leet/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/arsh-exe/leet/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsh-exe/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arsh-exe/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arsh-exe/leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
