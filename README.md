@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arsh-exe/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/arsh-exe/leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arsh-exe/leet/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/arsh-exe/leet/tree/master/0324-wiggle-sort-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arsh-exe/leet/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/arsh-exe/leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsh-exe/leet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arsh-exe/leet/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/arsh-exe/leet/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/arsh-exe/leet/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/arsh-exe/leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arsh-exe/leet/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/arsh-exe/leet/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsh-exe/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/arsh-exe/leet/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/arsh-exe/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/arsh-exe/leet/tree/master/0561-array-partition) |
 | [2351-first-letter-to-appear-twice](https://github.com/arsh-exe/leet/tree/master/2351-first-letter-to-appear-twice) |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arsh-exe/leet/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/arsh-exe/leet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
