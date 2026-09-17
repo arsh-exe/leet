@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsh-exe/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arsh-exe/leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arsh-exe/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arsh-exe/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsh-exe/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/arsh-exe/leet/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arsh-exe/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arsh-exe/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arsh-exe/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arsh-exe/leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arsh-exe/leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arsh-exe/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/arsh-exe/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arsh-exe/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arsh-exe/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arsh-exe/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arsh-exe/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/arsh-exe/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsh-exe/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arsh-exe/leet/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/arsh-exe/leet/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsh-exe/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arsh-exe/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arsh-exe/leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/arsh-exe/leet/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/arsh-exe/leet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/arsh-exe/leet/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arsh-exe/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arsh-exe/leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arsh-exe/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
